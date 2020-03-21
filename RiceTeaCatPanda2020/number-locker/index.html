@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Welcome to the Number Locker!</title>
+        <script src="script.js"></script>
+        <script src="network.js"></script>
+    </head>
+    <body>
+        <h1>Welcome to the number locker.</h1>
+        <h3>Guess the secret number to win!</h3>
+        <img src="https://t1.ea.ltmcdn.com/en/images/2/0/1/can_cats_eat_rice_different_rice_products_3102_600.jpg" width="300"/>
+        <p></p>
+        <br>
+        <input id="s"/>
+        <input type="submit" value="Guess!" onclick="guess()"/>
+
+        <script>
+            function guess() {
+                // hmm my server isn't working. will have to find an alternative... :(
+                var conn = new XMLHttpRequest();
+                conn.onreadystatechange = function() {
+                    if (conn.readyState == 4 && conn.status == 200) {
+                        var result = JSON.parse(conn.responseText);
+                        if (result.guessIsCorrect) {
+                            alert("Nice! Your flag is " + result.flag + ". How did you do that?");
+                        } else {
+                            alert("Nope, but only 9007199254740990 other possiblities left!");
+                        }
+                    }
+                }
+                conn.open("GET", "./test-answer");
+                conn.send(JSON.stringify({userGuess: s.value.input}));
+            }
+        </script>
+        <script src="analytics.js"></script>
+    </body>
+</html>
