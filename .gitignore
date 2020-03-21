@@ -1,0 +1,19 @@
+# CTFs2020
+
+.DS_Store
+.idea
+
+.metadata
+.cproject
+.project
+**/.settings/
+**/Debug/
+
+.vscode
+**/__pycache__/
+
+/HackTM2020/find_my_pass.zip
+/HackTM2020/prison_break/prison_break.txt
+/UTCTF2020/curveball.txt
+/AeroCTF2020/memory.dmp
+
