@@ -1,0 +1,17 @@
+# =========================
+# Alexander Pyatkin
+
+# MBP [ed25519 2019-10-10]
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA2JBOTTF00C7edgq7jNzn6K212tgxMRQE1R2O3jX+0n aspyatkin/mbp/ed25519/2019-10-10
+
+# MBP [RSA 2019-10-10]
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCub3Ioy8BrnMsLe7hKlmXFnCSr+CCyIdhRlrkD/X7fX/JtcoqlMFiJevTHwoQaRZp2h4PwPlfjTakxIFoH+WZI99Ff12Q1VZWannKvNtJeVAUNnrcc+kh/pHgx5Tr4hhFpYJBXbtGAcmJUOT3NPkaZ2YlLr+uXF+vfYQY0GrYHT34JW1XqtG1XsUEL5hBmHHtPcz3Na2KVBwfRq2uOYP8+nXYSE2tHDBFZQQPPEB2cGTDdUSGZrpWHxG4lvzQYovGO2lpgschVm8pLSSsDdgmWRj49PTjyuEEGd8wXXS2TxDB3jeaWOPPyzLiI6fDr/Hc/D2/ZYqJpzAovYqTo1bYN aspyatkin@alternative.q.2020.volgactf.ru
+
+# Workstation [ed25519 2018-10-10]
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIEsxA53vLyfzVlcSHouowZwv/IdaNKbD0SbRJd/ukrYP aspyatkin/workstation/ed25519/2018-10-10
+
+# Workstation [RSA 2018-10-10]
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCpMWRDcacjgUE0KmfBh7FMUTKBIXLBrmbfVWxhuI/oq122X91JzjpsKEjAYb8mSqpLPk1IYGpGp/JkUmjXF0Olx/36O1C1wOPJ8bjpt34iUJ/e4l6fmGzDisA25xNVpSjUktu5o1pnr2w/xfN9qcDjjdL17gmA9nnT4dPdJyu1Iw+ZZ4U7SUGIs93N5D+vd+Z32ghfUNrweKuLwOhunFg/5RZLIIm6ATXi9FYckRmS/Kngqk0yW4H1Z4Mf03yoywFFUbe+1oUZnzO/WSYPEwhOEQQqvu0U4s1sJHRNW87cxDoP3WApX1EAhTy0BqeiwEV+j67t6NVLzUgpNIymDdcShFDw3sF0/DNDLvibOkONKbUC1FkwNzhSCg+1DcwVADifYkllz+3SAXVexJh9ogi0Jz5oWoNey5v/DNSOM/rql4Bjxjjz/+qPZ3pHk2pwSmQEVH8ICCn8oCOdKi5XqWs0VeqdKlUh0kD+l0H9UQciQm7Gfida8bNrwk2P5kfMz8pdnKEaclxr1xpiUd232MuPohlVogL87WN5CNyoB1U/Wqg9ksJCSKRK1ciEsgNLSI7+c0T7UxlQhycXoQtBwKE+SuKzON3M8VUVKlfDtZgU9Ftah7wf7frbMXy1tU4eoZQLM08cDHMzIBWH05VubZVTsQe2WbKrBUYk2Xo1tZ14UQ== aspyatkin@alternative.q.2020.volgactf.ru
+
+# end Alexander Pyatkin
+# =========================
