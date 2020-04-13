@@ -1,4 +1,4 @@
-from utils.rsa_util import find_n_root
+from utils.rsa.rsa_util import find_n_root
 
 # with open('flag.enc', 'rb') as f:
 #     enc = f.read()

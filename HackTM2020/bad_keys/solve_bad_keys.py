@@ -1,5 +1,5 @@
 from utils.netcat import Netcat
-from utils.rsa_util import get_pq
+from utils.rsa.rsa_util import get_pq
 
 
 def get_keys() -> None:
