@@ -1,15 +1,24 @@
-#!/usr/bin/env python
-# coding:utf-8
+"""
+Writeup for Hexion CTF 2020
+By Stanley
 
+Challenge: T&J
+Category: Misc
+Points: 846 (as of time of writing)
+Description:
+    Can you help Tom catch Jerry?
+    Author: Idan
+
+We are given jerry.pcapng, which is a pcap of USB mouse movement. (This took my team and I way longer to figure out than it should have, given that Jerry from Tom and Jerry is a mouse.)
+My team found a script at https://github.com/WangYihang/UsbMiceDataHacker which I used. The script had to be ported from python2 to python3, and my version of tshark functions differently that the original script expected.
+I also changed some other small things to make the script more like my style.
+Once that was out of the way, I ran the code but got a bunch of scribbles. (PUT IMAGE OF SCRIBBLES FROM DISCORD HERE, https://media.discordapp.net/attachments/698372772321296485/698705799379157012/jerry_plot.png)
+My teammates noticed that it did look a little like a flag, and by shrinking the marker size and widening the image we got this: (PUT WIDE IMAGE HERE, https://media.discordapp.net/attachments/698372772321296485/698710191553773578/jerry_flag.png?width=2036&height=463)
+The writing was still messed up, since the script logged every movement, not just when the mouse was pressed. After that was changed, we got the flag.
+(IMAGE WITH FLAG, https://media.discordapp.net/attachments/698372772321296485/698710870536224768/jerry_flag.png?width=2036&height=322)
+"""
 import os
 import matplotlib.pyplot as plt
-
-
-class ActionTypes:
-    LEFT = "green"
-    RIGHT = "blue"
-    MOVE = "red"
-    UNKNOWN = "brown"
 
 
 pcapFilePath = "jerry.pcapng"
@@ -20,7 +29,6 @@ data = []
 def main():
     X = []
     Y = []
-    atype = []
     mouseX = 0
     mouseY = 0
 
@@ -33,9 +41,10 @@ def main():
     with open(DataFileName, "r") as f:
         for line in f:
             data.append(line[:8].strip())
-    print(data)
+            # depending on what tshark you have, the output may be separated by ":" instead
+    # print(data)
 
-    # handle move
+    # handle each movement
     for dat in data:
         capture_data = [dat[i:i + 2] for i in range(len(dat))]
         if len(capture_data) == 8:
@@ -55,16 +64,10 @@ def main():
             offsetY -= 256
         mouseX += offsetX
         mouseY += offsetY
-        if capture_data[0] == "01":
-            # print("[+] left click")
-            atype.append(ActionTypes.LEFT)
-        elif capture_data[0] == "02":
-            # print "[+] right click"
-            atype.append(ActionTypes.RIGHT)
-        elif capture_data[0] == "00":
+
+        # don't record the movement if the mouse is not pressed down
+        if capture_data[0] == "00":
             continue
-        #     # print "[+] mouse move"
-        #     atype.append(ActionTypes.MOVE)
 
         X.append(mouseX)
         Y.append(-mouseY)
@@ -72,11 +75,13 @@ def main():
     fig = plt.figure()
     ax1 = fig.add_subplot(111)
 
-    print(X)
-    print(Y)
+    # print(X)
+    # print(Y)
 
     ax1.set_title("File " + pcapFilePath)
-    ax1.scatter(X, Y, s=1, c=atype, marker='o')
+    ax1.scatter(X[:-10], Y[:-10], s=1, c='r', marker='o')
+
+    # show the plot
     plt.show()
 
     # clean temp data

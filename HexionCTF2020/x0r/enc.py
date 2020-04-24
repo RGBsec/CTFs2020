@@ -12,5 +12,5 @@ data = []
 for i in range(len(flag)):
     data.append(chr(ord(flag[i]) ^ ord(next(key_gen))))
 
-with open("flag.enc", "w+") as file:
+with open("flag.enc", "w+") as fle:
     file.write(''.join(data))

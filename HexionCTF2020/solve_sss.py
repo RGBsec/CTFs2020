@@ -1,3 +1,23 @@
+"""
+Writeup for Hexion CTF 2020
+By Stanley
+Challenge: SSS
+Category: Crypto
+Points: 908 (as of time of writing)
+Description:
+    Math is so beautiful and can always be used for cryptographic encryption!
+    nc challenges1.hexionteam.com 5001
+    Author: Yarin
+
+We are given an sss.py. See https://pastebin.com/KQhdB3fa for source.
+I found that SSS stands for Shamir's Secret Sharing by copy-pasting the loop from eval_at, which brought me to this Wikipedia page: https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing
+
+From there I learned that sss.py was basically giving out shares, with the flag as the secret. So we can just request enough shares until we meet the minimum threshold to be able to recover the secret.
+
+Most of this code (nearly everything except main) is taken from Wikipedia's example implementation of Shamir's Secret Sharing
+If you want to understand it, Wikipedia can explain it much better than I can
+"""
+
 from Crypto.Util.number import long_to_bytes
 from pwn import remote
 
@@ -41,7 +61,7 @@ def _lagrange_interpolate(x, x_s, y_s, p):
             accum *= v
         return accum
 
-    nums = []  # avoid inexact division
+    nums = []
     dens = []
     for i in range(k):
         others = list(x_s)
@@ -60,19 +80,28 @@ def recover_secret(shares, prime=P):
 
 
 def main():
+    # connect to the nc server
     r = remote("challenges1.hexionteam.com", 5001)
     r.recvuntil(">>>")
     shares = []
+
+    # request 78 shares, just to be safe (min is a random int between 48 and 63, inclusive)
     for i in range(0x1, 0x50):
-        if i == ord('\n'):
+        if i == ord('\n'):  # pwn remote didn't like me sending a newline, so I skipped that one
             continue
         r.sendline(long_to_bytes(i))
         resp = r.recvline().decode()
         resp = resp.strip().strip('>').strip()
         shares.append((i,int(resp)))
-    print(shares)
+
+        if len(shares) % 5 == 0:
+            print("Acquired", len(shares), "shares")
+
+    # print(shares)
     print(long_to_bytes(recover_secret(shares)))
 
 
 if __name__ == '__main__':
     main()
+
+# hexCTF{d0nt_us3_shar3s_lik3_that}
