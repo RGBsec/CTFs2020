@@ -1,0 +1,2896 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+<Document>
+<Placemark>
+    <TimeSpan>
+        <begin>1500-01</begin>
+        <end>1530-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.817814, 169.713325</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1501-01</begin>
+        <end>1531-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.839075, 169.537514</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1502-01</begin>
+        <end>1532-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.993003, 169.713325</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1503-01</begin>
+        <end>1533-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.653381, 169.889139</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1504-01</begin>
+        <end>1534-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.578014, 169.801233</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1505-01</begin>
+        <end>1535-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.817814, 169.713325</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1506-01</begin>
+        <end>1536-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.439975, 169.449608</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1507-01</begin>
+        <end>1537-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.600094, 167.691483</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1508-01</begin>
+        <end>1538-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.071981, 165.845450</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1509-01</begin>
+        <end>1539-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.215556, 163.999419</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1510-01</begin>
+        <end>1540-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.215556, 161.977575</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1511-01</begin>
+        <end>1541-01</end>
+    </TimeSpan>
+    <Point><coordinates>21.453069, 155.384606</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1512-01</begin>
+        <end>1542-01</end>
+    </TimeSpan>
+    <Point><coordinates>23.563986, 155.120886</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1513-01</begin>
+        <end>1543-01</end>
+    </TimeSpan>
+    <Point><coordinates>25.562264, 155.384606</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1514-01</begin>
+        <end>1544-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.215556, 155.384606</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1515-01</begin>
+        <end>1545-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.535231, 155.208792</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1516-01</begin>
+        <end>1546-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.578536, 155.296700</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1517-01</begin>
+        <end>1547-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.211117, 155.912042</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1518-01</begin>
+        <end>1548-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.957994, 155.560417</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1519-01</begin>
+        <end>1549-01</end>
+    </TimeSpan>
+    <Point><coordinates>36.527294, 154.945075</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1520-01</begin>
+        <end>1550-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.579414, 152.923231</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1521-01</begin>
+        <end>1551-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.926867, 150.198136</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1522-01</begin>
+        <end>1552-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.065392, 147.736761</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1523-01</begin>
+        <end>1553-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.952161, 158.197606</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1524-01</begin>
+        <end>1554-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.802892, 153.099042</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1525-01</begin>
+        <end>1555-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.728167, 150.989292</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1526-01</begin>
+        <end>1556-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.524414, 136.660572</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1527-01</begin>
+        <end>1557-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.764378, 138.858228</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1528-01</begin>
+        <end>1558-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.840644, 141.407511</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1529-01</begin>
+        <end>1559-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.578536, 143.429353</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1530-01</begin>
+        <end>1560-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.431442, 143.693072</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1531-01</begin>
+        <end>1561-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.173808, 143.165636</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1532-01</begin>
+        <end>1562-01</end>
+    </TimeSpan>
+    <Point><coordinates>36.668419, 141.671228</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1533-01</begin>
+        <end>1563-01</end>
+    </TimeSpan>
+    <Point><coordinates>36.668419, 141.671228</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1534-01</begin>
+        <end>1564-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.160317, 139.297761</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1535-01</begin>
+        <end>1565-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.230328, 136.133133</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1536-01</begin>
+        <end>1566-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.226969, 130.419228</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1537-01</begin>
+        <end>1567-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.840644, 130.507133</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1538-01</begin>
+        <end>1568-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.026706, 130.155508</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1539-01</begin>
+        <end>1569-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.741611, 130.507133</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1540-01</begin>
+        <end>1570-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.020097, 130.155508</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1541-01</begin>
+        <end>1571-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.754083, 130.507133</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1542-01</begin>
+        <end>1572-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.754083, 130.507133</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1543-01</begin>
+        <end>1573-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.647303, 130.595039</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1544-01</begin>
+        <end>1574-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.449789, 128.397383</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1545-01</begin>
+        <end>1575-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.059125, 126.199728</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1546-01</begin>
+        <end>1576-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.215556, 123.826258</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1547-01</begin>
+        <end>1577-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.916767, 121.892319</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1548-01</begin>
+        <end>1578-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.611669, 121.892319</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1549-01</begin>
+        <end>1579-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.675714, 123.738350</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1550-01</begin>
+        <end>1580-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.052933, 125.848103</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1551-01</begin>
+        <end>1581-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.578536, 127.694133</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1552-01</begin>
+        <end>1582-01</end>
+    </TimeSpan>
+    <Point><coordinates>19.394067, 105.370181</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1553-01</begin>
+        <end>1583-01</end>
+    </TimeSpan>
+    <Point><coordinates>18.479608, 107.128306</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1554-01</begin>
+        <end>1584-01</end>
+    </TimeSpan>
+    <Point><coordinates>18.979025, 109.062242</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1555-01</begin>
+        <end>1585-01</end>
+    </TimeSpan>
+    <Point><coordinates>18.979025, 109.062242</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1556-01</begin>
+        <end>1586-01</end>
+    </TimeSpan>
+    <Point><coordinates>20.715014, 110.468742</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1557-01</begin>
+        <end>1587-01</end>
+    </TimeSpan>
+    <Point><coordinates>22.917922, 111.084086</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1558-01</begin>
+        <end>1588-01</end>
+    </TimeSpan>
+    <Point><coordinates>24.766786, 110.996181</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1559-01</begin>
+        <end>1589-01</end>
+    </TimeSpan>
+    <Point><coordinates>24.766786, 110.996181</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1560-01</begin>
+        <end>1590-01</end>
+    </TimeSpan>
+    <Point><coordinates>26.509906, 111.171992</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1561-01</begin>
+        <end>1591-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.683528, 112.666400</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1562-01</begin>
+        <end>1592-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.683528, 112.666400</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1563-01</begin>
+        <end>1593-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.683528, 112.666400</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1564-01</begin>
+        <end>1594-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.690589, 114.160806</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1565-01</begin>
+        <end>1595-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.690589, 114.160806</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1566-01</begin>
+        <end>1596-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.916853, 112.490586</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1567-01</begin>
+        <end>1597-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.916853, 112.490586</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1568-01</begin>
+        <end>1598-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.802892, 111.259900</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1569-01</begin>
+        <end>1599-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.578014, 111.347806</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1570-01</begin>
+        <end>1600-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.245619, 111.259900</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1571-01</begin>
+        <end>1601-01</end>
+    </TimeSpan>
+    <Point><coordinates>36.738883, 111.259900</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1572-01</begin>
+        <end>1602-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.479394, 111.259900</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1573-01</begin>
+        <end>1603-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.178872, 111.084086</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1574-01</begin>
+        <end>1604-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.376808, 109.413867</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1575-01</begin>
+        <end>1605-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.902278, 107.479931</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1576-01</begin>
+        <end>1606-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.967658, 105.194367</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1577-01</begin>
+        <end>1607-01</end>
+    </TimeSpan>
+    <Point><coordinates>17.895114, 92.272147</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1578-01</begin>
+        <end>1608-01</end>
+    </TimeSpan>
+    <Point><coordinates>17.895114, 92.272147</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1579-01</begin>
+        <end>1609-01</end>
+    </TimeSpan>
+    <Point><coordinates>19.476950, 93.414928</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1580-01</begin>
+        <end>1610-01</end>
+    </TimeSpan>
+    <Point><coordinates>19.476950, 93.414928</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1581-01</begin>
+        <end>1611-01</end>
+    </TimeSpan>
+    <Point><coordinates>21.125497, 94.821428</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1582-01</begin>
+        <end>1612-01</end>
+    </TimeSpan>
+    <Point><coordinates>22.431339, 95.876303</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1583-01</begin>
+        <end>1613-01</end>
+    </TimeSpan>
+    <Point><coordinates>23.483400, 97.370711</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1584-01</begin>
+        <end>1614-01</end>
+    </TimeSpan>
+    <Point><coordinates>23.483400, 97.370711</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1585-01</begin>
+        <end>1615-01</end>
+    </TimeSpan>
+    <Point><coordinates>24.846564, 98.865117</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1586-01</begin>
+        <end>1616-01</end>
+    </TimeSpan>
+    <Point><coordinates>26.352497, 100.359522</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1587-01</begin>
+        <end>1617-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.605672, 98.865117</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1588-01</begin>
+        <end>1618-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.527758, 97.106992</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1589-01</begin>
+        <end>1619-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.761331, 94.909336</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1590-01</begin>
+        <end>1620-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.761331, 92.623772</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1591-01</begin>
+        <end>1621-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.761331, 89.898678</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1592-01</begin>
+        <end>1622-01</end>
+    </TimeSpan>
+    <Point><coordinates>24.287028, 92.799586</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1593-01</begin>
+        <end>1623-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.840644, 92.887492</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1594-01</begin>
+        <end>1624-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.353636, 92.975397</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1595-01</begin>
+        <end>1625-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.842675, 93.239117</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1596-01</begin>
+        <end>1626-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.885931, 93.502836</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1597-01</begin>
+        <end>1627-01</end>
+    </TimeSpan>
+    <Point><coordinates>36.738883, 93.678647</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1598-01</begin>
+        <end>1628-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.272689, 93.854461</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1599-01</begin>
+        <end>1629-01</end>
+    </TimeSpan>
+    <Point><coordinates>39.639539, 94.030272</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1600-01</begin>
+        <end>1630-01</end>
+    </TimeSpan>
+    <Point><coordinates>39.639539, 94.030272</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1601-01</begin>
+        <end>1631-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.508578, 94.469803</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1602-01</begin>
+        <end>1632-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.145128, 82.426647</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1603-01</begin>
+        <end>1633-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.026706, 82.426647</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1604-01</begin>
+        <end>1634-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.504758, 82.250833</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1605-01</begin>
+        <end>1635-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.245619, 82.250833</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1606-01</begin>
+        <end>1636-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.160317, 82.075022</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1607-01</begin>
+        <end>1637-01</end>
+    </TimeSpan>
+    <Point><coordinates>39.300300, 82.075022</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1608-01</begin>
+        <end>1638-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.780542, 82.162928</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1609-01</begin>
+        <end>1639-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.916486, 80.316897</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1610-01</begin>
+        <end>1640-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.524414, 79.086208</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1611-01</begin>
+        <end>1641-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.916853, 76.449019</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1612-01</begin>
+        <end>1642-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.754083, 67.658394</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1613-01</begin>
+        <end>1643-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.548164, 64.230050</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1614-01</begin>
+        <end>1644-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.788081, 61.241236</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1615-01</begin>
+        <end>1645-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.524661, 59.834736</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1616-01</begin>
+        <end>1646-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.768800, 60.625894</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1617-01</begin>
+        <end>1647-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.052933, 62.384019</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1618-01</begin>
+        <end>1648-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.069094, 64.405864</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1619-01</begin>
+        <end>1649-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.600094, 66.163989</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1620-01</begin>
+        <end>1650-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.075375, 53.681300</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1621-01</begin>
+        <end>1651-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.977608, 53.593392</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1622-01</begin>
+        <end>1652-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.211117, 53.593392</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1623-01</begin>
+        <end>1653-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.389050, 53.593392</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1624-01</begin>
+        <end>1654-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.020097, 53.681300</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1625-01</begin>
+        <end>1655-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.891033, 53.945017</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1626-01</begin>
+        <end>1656-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.513800, 53.945017</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1627-01</begin>
+        <end>1657-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.032975, 51.492319</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1628-01</begin>
+        <end>1658-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.228517, 48.767225</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1629-01</begin>
+        <end>1659-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.098222, 46.217944</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1630-01</begin>
+        <end>1660-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.046217, 43.844475</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1631-01</begin>
+        <end>1661-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.959408, 43.580758</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1632-01</begin>
+        <end>1662-01</end>
+    </TimeSpan>
+    <Point><coordinates>36.809286, 43.404944</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1633-01</begin>
+        <end>1663-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.029997, 43.756569</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1634-01</begin>
+        <end>1664-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.768800, 43.404944</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1635-01</begin>
+        <end>1665-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.600094, 43.580758</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1636-01</begin>
+        <end>1666-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.690589, 43.756569</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1637-01</begin>
+        <end>1667-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.293564, 41.822633</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1638-01</begin>
+        <end>1668-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.459033, 32.774714</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1639-01</begin>
+        <end>1669-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.372875, 32.598900</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1640-01</begin>
+        <end>1670-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.398517, 32.686808</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1641-01</begin>
+        <end>1671-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.234511, 32.950525</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1642-01</begin>
+        <end>1672-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.746511, 32.950525</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1643-01</begin>
+        <end>1673-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.509725, 32.950525</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1644-01</begin>
+        <end>1674-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.891033, 33.038433</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1645-01</begin>
+        <end>1675-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.245992, 33.390058</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1646-01</begin>
+        <end>1676-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.488303, 33.302150</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1647-01</begin>
+        <end>1677-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.802892, 30.401244</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1648-01</begin>
+        <end>1678-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.145128, 29.434275</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1649-01</begin>
+        <end>1679-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.767658, 27.676150</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1650-01</begin>
+        <end>1680-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.536275, 25.478492</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1651-01</begin>
+        <end>1681-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.305561, 23.720367</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1652-01</begin>
+        <end>1682-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.278550, 22.577586</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1653-01</begin>
+        <end>1683-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.284619, 22.313867</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1654-01</begin>
+        <end>1684-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.817814, 22.401775</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1655-01</begin>
+        <end>1685-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.548164, 22.577586</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1656-01</begin>
+        <end>1686-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.780542, 22.665492</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1657-01</begin>
+        <end>1687-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.553081, 22.665492</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1658-01</begin>
+        <end>1688-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.771094, 11.337358</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1659-01</begin>
+        <end>1689-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.747011, 13.007547</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1660-01</begin>
+        <end>1690-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.508578, 14.589953</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1661-01</begin>
+        <end>1691-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.822592, 15.632992</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1662-01</begin>
+        <end>1692-01</end>
+    </TimeSpan>
+    <Point><coordinates>36.879622, 14.929742</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1663-01</begin>
+        <end>1693-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.029997, 14.138586</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1664-01</begin>
+        <end>1694-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.431442, 12.204647</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1665-01</begin>
+        <end>1695-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.546814, 10.446522</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1666-01</begin>
+        <end>1696-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.249975, 8.688397</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1667-01</begin>
+        <end>1697-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.516689, 9.127928</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1668-01</begin>
+        <end>1698-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.771094, 7.106086</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1669-01</begin>
+        <end>1699-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.261206, 5.260053</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1670-01</begin>
+        <end>1700-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.046217, 5.611678</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1671-01</begin>
+        <end>1701-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.822592, 5.523772</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1672-01</begin>
+        <end>1702-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.439975, 5.611678</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1673-01</begin>
+        <end>1703-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.101933, 5.611678</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1674-01</begin>
+        <end>1704-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.651208, 5.611678</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1675-01</begin>
+        <end>1705-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.175611, 5.787492</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1676-01</begin>
+        <end>1706-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.675714, 5.787492</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1677-01</begin>
+        <end>1707-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.152161, 6.227022</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1678-01</begin>
+        <end>1708-01</end>
+    </TimeSpan>
+    <Point><coordinates>26.824072, 6.051211</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1679-01</begin>
+        <end>1709-01</end>
+    </TimeSpan>
+    <Point><coordinates>26.824072, 6.051211</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1680-01</begin>
+        <end>1710-01</end>
+    </TimeSpan>
+    <Point><coordinates>24.766786, 6.490742</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1681-01</begin>
+        <end>1711-01</end>
+    </TimeSpan>
+    <Point><coordinates>22.350075, 6.578647</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1682-01</begin>
+        <end>1712-01</end>
+    </TimeSpan>
+    <Point><coordinates>20.138469, 6.666553</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1683-01</begin>
+        <end>1713-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.133061, 2.380475</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1684-01</begin>
+        <end>1714-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.261206, 4.753942</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1685-01</begin>
+        <end>1715-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.261206, 8.533911</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1686-01</begin>
+        <end>1716-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.261206, 6.599975</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1687-01</begin>
+        <end>1717-01</end>
+    </TimeSpan>
+    <Point><coordinates>19.725342, 18.203600</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1688-01</begin>
+        <end>1718-01</end>
+    </TimeSpan>
+    <Point><coordinates>19.808053, 21.104508</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1689-01</begin>
+        <end>1719-01</end>
+    </TimeSpan>
+    <Point><coordinates>20.385825, 23.477975</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1690-01</begin>
+        <end>1720-01</end>
+    </TimeSpan>
+    <Point><coordinates>20.385825, 27.082133</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1691-01</begin>
+        <end>1721-01</end>
+    </TimeSpan>
+    <Point><coordinates>20.385825, 23.477975</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1692-01</begin>
+        <end>1722-01</end>
+    </TimeSpan>
+    <Point><coordinates>20.055931, 29.365600</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1693-01</begin>
+        <end>1723-01</end>
+    </TimeSpan>
+    <Point><coordinates>20.632783, 33.145569</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1694-01</begin>
+        <end>1724-01</end>
+    </TimeSpan>
+    <Point><coordinates>20.797200, 31.123725</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1695-01</begin>
+        <end>1725-01</end>
+    </TimeSpan>
+    <Point><coordinates>20.961439, 35.431133</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1696-01</begin>
+        <end>1726-01</end>
+    </TimeSpan>
+    <Point><coordinates>22.593725, 34.464164</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1697-01</begin>
+        <end>1727-01</end>
+    </TimeSpan>
+    <Point><coordinates>25.244697, 33.321383</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1698-01</begin>
+        <end>1728-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.293689, 32.266508</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1699-01</begin>
+        <end>1729-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.458731, 31.123725</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1700-01</begin>
+        <end>1730-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.249975, 29.453508</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1701-01</begin>
+        <end>1731-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.161817, 28.574444</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1702-01</begin>
+        <end>1732-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.889050, 27.080039</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1703-01</begin>
+        <end>1733-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.272689, 25.761444</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1704-01</begin>
+        <end>1734-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.044439, 24.618664</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1705-01</begin>
+        <end>1735-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.836828, 23.475881</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1706-01</begin>
+        <end>1736-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.004647, 22.508911</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1707-01</begin>
+        <end>1737-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.004647, 22.508911</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1708-01</begin>
+        <end>1738-01</end>
+    </TimeSpan>
+    <Point><coordinates>44.465150, 21.014506</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1709-01</begin>
+        <end>1739-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.353636, 22.333100</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1710-01</begin>
+        <end>1740-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.278550, 24.179131</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1711-01</begin>
+        <end>1741-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.578536, 26.992133</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1712-01</begin>
+        <end>1742-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.503628, 32.442319</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1713-01</begin>
+        <end>1743-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.877558, 35.343225</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1714-01</begin>
+        <end>1744-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.877558, 37.628789</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1715-01</begin>
+        <end>1745-01</end>
+    </TimeSpan>
+    <Point><coordinates>19.559789, 45.009414</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1716-01</begin>
+        <end>1746-01</end>
+    </TimeSpan>
+    <Point><coordinates>22.024547, 44.921506</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1717-01</begin>
+        <end>1747-01</end>
+    </TimeSpan>
+    <Point><coordinates>24.126703, 44.745694</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1718-01</begin>
+        <end>1748-01</end>
+    </TimeSpan>
+    <Point><coordinates>25.720736, 44.745694</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1719-01</begin>
+        <end>1749-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.605672, 44.921506</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1720-01</begin>
+        <end>1750-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.611669, 44.745694</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1721-01</begin>
+        <end>1751-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.101189, 44.569881</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1722-01</begin>
+        <end>1752-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.943361, 44.481975</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1723-01</begin>
+        <end>1753-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.817814, 44.130350</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1724-01</begin>
+        <end>1754-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.272689, 43.690819</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1725-01</begin>
+        <end>1755-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.513800, 43.778725</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1726-01</begin>
+        <end>1756-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.452919, 43.690819</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1727-01</begin>
+        <end>1757-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.161817, 46.676192</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1728-01</begin>
+        <end>1758-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.358061, 49.665006</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1729-01</begin>
+        <end>1759-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.089061, 52.653817</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1730-01</begin>
+        <end>1760-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.746511, 54.587756</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1731-01</begin>
+        <end>1761-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.579414, 55.291006</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1732-01</begin>
+        <end>1762-01</end>
+    </TimeSpan>
+    <Point><coordinates>39.095964, 55.466817</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1733-01</begin>
+        <end>1763-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.112469, 55.466817</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1734-01</begin>
+        <end>1764-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.197167, 55.642631</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1735-01</begin>
+        <end>1765-01</end>
+    </TimeSpan>
+    <Point><coordinates>18.895892, 60.829100</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1736-01</begin>
+        <end>1766-01</end>
+    </TimeSpan>
+    <Point><coordinates>18.062311, 62.675131</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1737-01</begin>
+        <end>1767-01</end>
+    </TimeSpan>
+    <Point><coordinates>17.560247, 65.312319</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1738-01</begin>
+        <end>1768-01</end>
+    </TimeSpan>
+    <Point><coordinates>17.392578, 67.685789</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1739-01</begin>
+        <end>1769-01</end>
+    </TimeSpan>
+    <Point><coordinates>17.392578, 69.971350</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1740-01</begin>
+        <end>1770-01</end>
+    </TimeSpan>
+    <Point><coordinates>18.396231, 72.872258</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1741-01</begin>
+        <end>1771-01</end>
+    </TimeSpan>
+    <Point><coordinates>20.220967, 74.015039</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1742-01</begin>
+        <end>1772-01</end>
+    </TimeSpan>
+    <Point><coordinates>22.106000, 74.366664</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1743-01</begin>
+        <end>1773-01</end>
+    </TimeSpan>
+    <Point><coordinates>25.165172, 74.366664</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1744-01</begin>
+        <end>1774-01</end>
+    </TimeSpan>
+    <Point><coordinates>26.824072, 74.015039</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1745-01</begin>
+        <end>1775-01</end>
+    </TimeSpan>
+    <Point><coordinates>26.824072, 74.015039</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1746-01</begin>
+        <end>1776-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.613458, 72.344819</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1747-01</begin>
+        <end>1777-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.382175, 70.586694</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1748-01</begin>
+        <end>1778-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.382175, 68.301133</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1749-01</begin>
+        <end>1779-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.382175, 66.455100</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1750-01</begin>
+        <end>1780-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.382175, 66.455100</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1751-01</begin>
+        <end>1781-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.458731, 63.730006</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1752-01</begin>
+        <end>1782-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.458731, 61.356536</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1753-01</begin>
+        <end>1783-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.998533, 74.806194</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1754-01</begin>
+        <end>1784-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.600094, 75.069914</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1755-01</begin>
+        <end>1785-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.694867, 75.069914</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1756-01</begin>
+        <end>1786-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.597042, 75.069914</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1757-01</begin>
+        <end>1787-01</end>
+    </TimeSpan>
+    <Point><coordinates>36.668419, 74.630383</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1758-01</begin>
+        <end>1788-01</end>
+    </TimeSpan>
+    <Point><coordinates>39.774769, 73.575508</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1759-01</begin>
+        <end>1789-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.203656, 74.454569</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1760-01</begin>
+        <end>1790-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.913514, 71.465758</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1761-01</begin>
+        <end>1791-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.902278, 69.268100</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1762-01</begin>
+        <end>1792-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.228517, 67.070444</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1763-01</begin>
+        <end>1793-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.358544, 65.312319</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1764-01</begin>
+        <end>1794-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.617792, 62.675131</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1765-01</begin>
+        <end>1795-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.098222, 78.937789</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1766-01</begin>
+        <end>1796-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.032975, 82.190322</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1767-01</begin>
+        <end>1797-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.163403, 84.387978</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1768-01</begin>
+        <end>1798-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.967658, 87.376789</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1769-01</begin>
+        <end>1799-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.228517, 90.013978</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1770-01</begin>
+        <end>1800-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.764378, 91.318547</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1771-01</begin>
+        <end>1801-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.128200, 91.406358</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1772-01</begin>
+        <end>1802-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.653381, 91.757406</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1773-01</begin>
+        <end>1803-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.675147, 92.812311</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1774-01</begin>
+        <end>1804-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.891033, 94.746250</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1775-01</begin>
+        <end>1805-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.902278, 97.559000</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1776-01</begin>
+        <end>1806-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.163403, 101.865061</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1777-01</begin>
+        <end>1807-01</end>
+    </TimeSpan>
+    <Point><coordinates>36.385914, 105.996469</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1778-01</begin>
+        <end>1808-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.313042, 105.556814</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1779-01</begin>
+        <end>1809-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.990236, 106.012917</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1780-01</begin>
+        <end>1810-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.145128, 105.925011</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1781-01</begin>
+        <end>1811-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.297017, 105.468814</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1782-01</begin>
+        <end>1812-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.990236, 106.012917</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1783-01</begin>
+        <end>1813-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.098222, 107.946856</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1784-01</begin>
+        <end>1814-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.488303, 110.671950</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1785-01</begin>
+        <end>1815-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.358544, 114.188200</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1786-01</begin>
+        <end>1816-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.580586, 116.385858</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1787-01</begin>
+        <end>1817-01</end>
+    </TimeSpan>
+    <Point><coordinates>36.527294, 116.913294</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1788-01</begin>
+        <end>1818-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.472694, 116.561669</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1789-01</begin>
+        <end>1819-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.524414, 116.023022</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1790-01</begin>
+        <end>1820-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.524414, 116.023022</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1791-01</begin>
+        <end>1821-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.472694, 116.561669</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1792-01</begin>
+        <end>1822-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.578014, 123.580847</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1793-01</begin>
+        <end>1823-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.230328, 123.580847</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1794-01</begin>
+        <end>1824-01</end>
+    </TimeSpan>
+    <Point><coordinates>39.842286, 124.108286</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1795-01</begin>
+        <end>1825-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.574361, 124.987347</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1796-01</begin>
+        <end>1826-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.875964, 126.833381</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1797-01</begin>
+        <end>1827-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.940339, 129.382661</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1798-01</begin>
+        <end>1828-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.032975, 132.107756</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1799-01</begin>
+        <end>1829-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.245992, 134.744942</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1800-01</begin>
+        <end>1830-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.230328, 136.151444</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1801-01</begin>
+        <end>1831-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.379714, 136.327256</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1802-01</begin>
+        <end>1832-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.128200, 135.711911</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1803-01</begin>
+        <end>1833-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.449789, 136.415161</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1804-01</begin>
+        <end>1834-01</end>
+    </TimeSpan>
+    <Point><coordinates>24.527136, 135.448192</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1805-01</begin>
+        <end>1835-01</end>
+    </TimeSpan>
+    <Point><coordinates>22.268764, 134.569131</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1806-01</begin>
+        <end>1836-01</end>
+    </TimeSpan>
+    <Point><coordinates>21.616578, 132.371475</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1807-01</begin>
+        <end>1837-01</end>
+    </TimeSpan>
+    <Point><coordinates>21.371244, 129.470567</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1808-01</begin>
+        <end>1838-01</end>
+    </TimeSpan>
+    <Point><coordinates>22.755922, 126.745475</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1809-01</begin>
+        <end>1839-01</end>
+    </TimeSpan>
+    <Point><coordinates>25.641525, 124.811536</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1810-01</begin>
+        <end>1840-01</end>
+    </TimeSpan>
+    <Point><coordinates>27.994400, 123.492942</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1811-01</begin>
+        <end>1841-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.993003, 123.492942</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1812-01</begin>
+        <end>1842-01</end>
+    </TimeSpan>
+    <Point><coordinates>26.980828, 126.481756</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1813-01</begin>
+        <end>1843-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.767658, 127.624536</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1814-01</begin>
+        <end>1844-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.600094, 128.943131</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1815-01</begin>
+        <end>1845-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.546814, 130.349631</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1816-01</begin>
+        <end>1846-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.089061, 131.844036</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1817-01</begin>
+        <end>1847-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.889050, 133.250536</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1818-01</begin>
+        <end>1848-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.649033, 134.217506</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1819-01</begin>
+        <end>1849-01</end>
+    </TimeSpan>
+    <Point><coordinates>44.339564, 142.304883</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1820-01</begin>
+        <end>1850-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.640078, 142.304883</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1821-01</begin>
+        <end>1851-01</end>
+    </TimeSpan>
+    <Point><coordinates>39.095964, 141.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1822-01</begin>
+        <end>1852-01</end>
+    </TimeSpan>
+    <Point><coordinates>36.385914, 141.689539</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1823-01</begin>
+        <end>1853-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.063925, 141.777444</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1824-01</begin>
+        <end>1854-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.160317, 143.887194</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1825-01</begin>
+        <end>1855-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.675147, 144.942069</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1826-01</begin>
+        <end>1856-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.524661, 146.788100</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1827-01</begin>
+        <end>1857-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.016242, 149.601100</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1828-01</begin>
+        <end>1858-01</end>
+    </TimeSpan>
+    <Point><coordinates>26.352497, 153.644789</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1829-01</begin>
+        <end>1859-01</end>
+    </TimeSpan>
+    <Point><coordinates>23.725011, 156.018258</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1830-01</begin>
+        <end>1860-01</end>
+    </TimeSpan>
+    <Point><coordinates>21.616578, 158.128008</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1831-01</begin>
+        <end>1861-01</end>
+    </TimeSpan>
+    <Point><coordinates>24.686953, 158.215914</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1832-01</begin>
+        <end>1862-01</end>
+    </TimeSpan>
+    <Point><coordinates>26.902478, 158.215914</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1833-01</begin>
+        <end>1863-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.611669, 158.215914</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1834-01</begin>
+        <end>1864-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.101189, 158.215914</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1835-01</begin>
+        <end>1865-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.379714, 158.040103</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1836-01</begin>
+        <end>1866-01</end>
+    </TimeSpan>
+    <Point><coordinates>36.244272, 158.040103</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1837-01</begin>
+        <end>1867-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.685511, 158.128008</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1838-01</begin>
+        <end>1868-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.032975, 157.688478</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1839-01</begin>
+        <end>1869-01</end>
+    </TimeSpan>
+    <Point><coordinates>44.465150, 157.688478</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1840-01</begin>
+        <end>1870-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.313042, 157.688478</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1841-01</begin>
+        <end>1871-01</end>
+    </TimeSpan>
+    <Point><coordinates>44.777936, 153.556883</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1842-01</begin>
+        <end>1872-01</end>
+    </TimeSpan>
+    <Point><coordinates>44.465150, 155.315008</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1843-01</begin>
+        <end>1873-01</end>
+    </TimeSpan>
+    <Point><coordinates>44.465150, 159.798228</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1844-01</begin>
+        <end>1874-01</end>
+    </TimeSpan>
+    <Point><coordinates>44.527842, 161.820072</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1845-01</begin>
+        <end>1875-01</end>
+    </TimeSpan>
+    <Point><coordinates>44.024422, 167.446072</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1846-01</begin>
+        <end>1876-01</end>
+    </TimeSpan>
+    <Point><coordinates>44.276672, 170.083261</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1847-01</begin>
+        <end>1877-01</end>
+    </TimeSpan>
+    <Point><coordinates>44.087586, 173.511603</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1848-01</begin>
+        <end>1878-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.197167, 176.412511</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1849-01</begin>
+        <end>1879-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.913514, 177.203667</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1850-01</begin>
+        <end>1880-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.616869, 176.236697</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1851-01</begin>
+        <end>1881-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.788081, 173.247886</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1852-01</begin>
+        <end>1882-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.788081, 173.247886</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1853-01</begin>
+        <end>1883-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.996164, 170.346978</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1854-01</begin>
+        <end>1884-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.754083, 168.149322</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1855-01</begin>
+        <end>1885-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.754083, 168.149322</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1856-01</begin>
+        <end>1886-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.847061, 167.621886</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1857-01</begin>
+        <end>1887-01</end>
+    </TimeSpan>
+    <Point><coordinates>44.840292, 176.764136</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1858-01</begin>
+        <end>1888-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.020097, 177.291575</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1859-01</begin>
+        <end>1889-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.379714, 177.115761</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1860-01</begin>
+        <end>1890-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.278550, 177.379481</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1861-01</begin>
+        <end>1891-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.459033, 176.852042</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1862-01</begin>
+        <end>1892-01</end>
+    </TimeSpan>
+    <Point><coordinates>26.037042, 176.676231</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1863-01</begin>
+        <end>1893-01</end>
+    </TimeSpan>
+    <Point><coordinates>23.322081, 176.412511</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1864-01</begin>
+        <end>1894-01</end>
+    </TimeSpan>
+    <Point><coordinates>21.289375, 176.236697</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1865-01</begin>
+        <end>1895-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.446947, 95.626625</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1866-01</begin>
+        <end>1896-01</end>
+    </TimeSpan>
+    <Point><coordinates>37.509725, 93.519017</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1867-01</begin>
+        <end>1897-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.797408, 92.112517</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1868-01</begin>
+        <end>1898-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.128200, 91.406358</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1869-01</begin>
+        <end>1899-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.764378, 91.318547</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1870-01</begin>
+        <end>1900-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.297017, 105.468814</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1871-01</begin>
+        <end>1901-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.372875, 105.820375</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1872-01</begin>
+        <end>1902-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.524661, 106.265425</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1873-01</begin>
+        <end>1903-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.479394, 105.737989</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1874-01</begin>
+        <end>1904-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.310825, 103.891958</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1875-01</begin>
+        <end>1905-01</end>
+    </TimeSpan>
+    <Point><coordinates>42.747011, 99.496644</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1876-01</begin>
+        <end>1906-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.134558, 116.462553</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1877-01</begin>
+        <end>1907-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.957994, 116.550458</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1878-01</begin>
+        <end>1908-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.524414, 116.023022</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1879-01</begin>
+        <end>1909-01</end>
+    </TimeSpan>
+    <Point><coordinates>29.688053, 115.927719</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1880-01</begin>
+        <end>1910-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.532225, 123.407147</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1881-01</begin>
+        <end>1911-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.877558, 123.582958</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1882-01</begin>
+        <end>1912-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.197167, 10.734697</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1883-01</begin>
+        <end>1913-01</end>
+    </TimeSpan>
+    <Point><coordinates>31.802892, 68.013553</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1884-01</begin>
+        <end>1914-01</end>
+    </TimeSpan>
+    <Point><coordinates>33.137550, 69.244242</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1885-01</begin>
+        <end>1915-01</end>
+    </TimeSpan>
+    <Point><coordinates>35.029997, 69.595867</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1886-01</begin>
+        <end>1916-01</end>
+    </TimeSpan>
+    <Point><coordinates>17.476433, 178.066500</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1887-01</begin>
+        <end>1917-01</end>
+    </TimeSpan>
+    <Point><coordinates>15.199386, 179.302972</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1888-01</begin>
+        <end>1918-01</end>
+    </TimeSpan>
+    <Point><coordinates>14.179186, 181.500628</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1889-01</begin>
+        <end>1919-01</end>
+    </TimeSpan>
+    <Point><coordinates>14.179186, 183.874097</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1890-01</begin>
+        <end>1920-01</end>
+    </TimeSpan>
+    <Point><coordinates>17.056786, 185.016881</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1891-01</begin>
+        <end>1921-01</end>
+    </TimeSpan>
+    <Point><coordinates>19.311142, 185.368506</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1892-01</begin>
+        <end>1922-01</end>
+    </TimeSpan>
+    <Point><coordinates>22.024547, 185.104786</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1893-01</begin>
+        <end>1923-01</end>
+    </TimeSpan>
+    <Point><coordinates>24.447150, 185.280600</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1894-01</begin>
+        <end>1924-01</end>
+    </TimeSpan>
+    <Point><coordinates>26.980828, 185.895942</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1895-01</begin>
+        <end>1925-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.998533, 187.390350</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1896-01</begin>
+        <end>1926-01</end>
+    </TimeSpan>
+    <Point><coordinates>28.998533, 187.390350</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1897-01</begin>
+        <end>1927-01</end>
+    </TimeSpan>
+    <Point><coordinates>30.751278, 188.884756</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1898-01</begin>
+        <end>1928-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.398517, 187.390350</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1899-01</begin>
+        <end>1929-01</end>
+    </TimeSpan>
+    <Point><coordinates>32.398517, 187.390350</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1900-01</begin>
+        <end>1930-01</end>
+    </TimeSpan>
+    <Point><coordinates>34.307144, 186.687100</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1901-01</begin>
+        <end>1931-01</end>
+    </TimeSpan>
+    <Point><coordinates>36.456636, 186.423381</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1902-01</begin>
+        <end>1932-01</end>
+    </TimeSpan>
+    <Point><coordinates>38.134558, 186.862911</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1903-01</begin>
+        <end>1933-01</end>
+    </TimeSpan>
+    <Point><coordinates>40.178872, 186.687100</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1904-01</begin>
+        <end>1934-01</end>
+    </TimeSpan>
+    <Point><coordinates>41.574361, 186.423381</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1905-01</begin>
+        <end>1935-01</end>
+    </TimeSpan>
+    <Point><coordinates>43.068889, 186.071756</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1906-01</begin>
+        <end>1936-01</end>
+    </TimeSpan>
+    <Point><coordinates>44.902578, 186.071756</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1907-01</begin>
+        <end>1937-01</end>
+    </TimeSpan>
+    <Point><coordinates>46.255847, 185.720131</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1908-01</begin>
+        <end>1938-01</end>
+    </TimeSpan>
+    <Point><coordinates>47.694975, 184.841067</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1909-01</begin>
+        <end>1939-01</end>
+    </TimeSpan>
+    <Point><coordinates>48.224672, 183.258756</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1910-01</begin>
+        <end>1940-01</end>
+    </TimeSpan>
+    <Point><coordinates>48.400033, 181.061097</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1911-01</begin>
+        <end>1941-01</end>
+    </TimeSpan>
+    <Point><coordinates>48.048711, 179.039253</coordinates></Point>
+</Placemark>
+<Placemark>
+    <TimeSpan>
+        <begin>1912-01</begin>
+        <end>1942-01</end>
+    </TimeSpan>
+    <Point><coordinates>47.457808, 177.456942</coordinates></Point>
+</Placemark>
+</Document>
+</kml>

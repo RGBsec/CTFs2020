@@ -1,0 +1,7 @@
+#!/bin/sh
+
+AJPATH=/usr/share/java/aspectjrt.jar:/usr/share/java/aspectjtools.jar
+
+exec "${JAVACMD:=java}" -classpath "$AJPATH${CLASSPATH:+:$CLASSPATH}" \
+  "${JAVA_OPTS:=-Xmx64M}" \
+  org.aspectj.tools.ajbrowser.Main "$@"
