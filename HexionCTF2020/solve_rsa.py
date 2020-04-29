@@ -1,4 +1,4 @@
-from utils.rsa.rsa_util import to_ascii
+from utils.basics import hex_to_ascii
 from utils.rsa.rsa_lsb_oracle import lsboracle
 from pwn import remote
 
@@ -24,7 +24,7 @@ def main():
 
     dec = lsboracle(flag, comm, 65537, N)
     print(dec)
-    print(to_ascii(dec))
+    print(hex_to_ascii(dec))
 
 
 if __name__ == "__main__":

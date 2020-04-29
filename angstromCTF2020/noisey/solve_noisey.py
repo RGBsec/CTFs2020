@@ -61,7 +61,7 @@ def decode_to_morse(bits):
     return msg
 
 
-def to_ascii(part):
+def bits_to_ascii(part):
     msg = decode_to_morse(part)
     ret = ""
     for c in msg.split():
@@ -86,7 +86,7 @@ def main():
 
     print(''.join([str(b) for b in bits]))
 
-    p = to_ascii(bits)
+    p = bits_to_ascii(bits)
     print(p.lower().replace('u', 'y'))
     print(len(p))
     # print('a' + "noisy"*28 + "noise")

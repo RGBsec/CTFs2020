@@ -1,5 +1,6 @@
 from sympy import divisors
-from utils.rsa.rsa_util import plaintext_pq, to_ascii
+from utils.basics import hex_to_ascii
+from utils.rsa.rsa_util import plaintext_pq
 
 with open('ciphertext', 'r') as c:
     ctxt = int(c.read().strip())
@@ -20,7 +21,7 @@ for cur_e in range(101, 10000, 2):
         plain = plaintext_pq(ctxt, cur_e, factors[0], factors[1])
     except ValueError:
         continue
-    txt = to_ascii(plain)
+    txt = hex_to_ascii(plain)
     print(cur_e)
     if txt.isprintable() or 'UMD' in txt or 'CTF' in txt:
         print(txt)
