@@ -1,0 +1,76 @@
+package com.example.casino.ui.notifications;
+
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
+import androidx.fragment.app.Fragment;
+import androidx.lifecycle.ViewModelProviders;
+import com.example.casino.BuildConfig;
+import com.example.casino.R;
+import java.io.PrintStream;
+import java.io.UnsupportedEncodingException;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
+import java.util.Arrays;
+import javax.crypto.Cipher;
+import javax.crypto.spec.SecretKeySpec;
+
+public class NotificationsFragment extends Fragment {
+    private static byte[] key;
+    private static SecretKeySpec secretKey;
+    private NotificationsViewModel notificationsViewModel;
+
+    /* JADX DEBUG: Failed to find minimal casts for resolve overloaded methods, cast all args instead
+     method: ClspMth{android.view.LayoutInflater.inflate(int, android.view.ViewGroup, boolean):android.view.View}
+     arg types: [?, android.view.ViewGroup, int]
+     candidates:
+      ClspMth{android.view.LayoutInflater.inflate(org.xmlpull.v1.XmlPullParser, android.view.ViewGroup, boolean):android.view.View}
+      ClspMth{android.view.LayoutInflater.inflate(int, android.view.ViewGroup, boolean):android.view.View} */
+    public View onCreateView(LayoutInflater layoutInflater, ViewGroup viewGroup, Bundle bundle) {
+        this.notificationsViewModel = (NotificationsViewModel) ViewModelProviders.of(this).get(NotificationsViewModel.class);
+        View inflate = layoutInflater.inflate((int) R.layout.fragment_notifications, viewGroup, false);
+        final EditText editText = (EditText) inflate.findViewById(R.id.trial);
+        final TextView textView = (TextView) inflate.findViewById(R.id.flag);
+        final byte[] bArr = {111, -27, -52, 111, -15, -78, 14, -10, 6, 119, 113, -100, 26, -120, 12, Byte.MIN_VALUE, 32, -112, 69, 42, 8, -100, 32, -24, 93, -6, -21, -122, -28, -14, -86, 51, -125, 59, 44, Byte.MAX_VALUE, 69, 11, -26, -10, 106, -27, -31, -106, 26, 41, 117, 13, 117, -91, 107, -41, 13, -52, -91, 123, -100, -108, -115, 80, 22, -46, -67, -124};
+        ((Button) inflate.findViewById(R.id.button_get_flag)).setOnClickListener(new View.OnClickListener() {
+            /* class com.example.casino.ui.notifications.NotificationsFragment.AnonymousClass1 */
+
+            public void onClick(View view) {
+                textView.setText(BuildConfig.FLAVOR);
+                textView.setText(NotificationsFragment.decrypt(bArr, editText.getText().toString()));
+            }
+        });
+        return inflate;
+    }
+
+    public static void setKey(String str) {
+        try {
+            key = str.getBytes("UTF-8");
+            byte[] digest = MessageDigest.getInstance("SHA-1").digest(key);
+            key = digest;
+            key = Arrays.copyOf(digest, 16);
+            secretKey = new SecretKeySpec(key, "AES");
+        } catch (NoSuchAlgorithmException e) {
+            e.printStackTrace();
+        } catch (UnsupportedEncodingException e2) {
+            e2.printStackTrace();
+        }
+    }
+
+    public static String decrypt(byte[] bArr, String str) {
+        try {
+            setKey(str);
+            Cipher instance = Cipher.getInstance("AES/ECB/PKCS5PADDING");
+            instance.init(2, secretKey);
+            return new String(instance.doFinal(bArr));
+        } catch (Exception e) {
+            PrintStream printStream = System.out;
+            printStream.println("Error while decrypting: " + e.toString());
+            return null;
+        }
+    }
+}
