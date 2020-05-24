@@ -1,0 +1,165 @@
+import hashlib
+import socket
+from scipy.spatial import ConvexHull
+import numpy as np
+INF = 100000000000
+"""
+def solve_pow(poww):
+    current = 1
+    while True:
+        if hashlib.sha256(str(current).encode()).hexdigest().endswith(poww):
+            break
+        current += 1
+    print("[?] Pow Challenge Solution: ", current)
+    print("[?] Hash: ", hashlib.sha256(str(current).encode()).hexdigest())  
+
+import sys
+solve_pow(sys.argv[1])
+"""
+
+"""
+Hello gamer!
+I'll give you an integer N, followed by N lines of couples of integers px py representing N points in the 2d plane.
+You must find all the lines passing through the origin such that the set obtained by projecting all points on the line is symmetric.
+Give the number of distinct lines as the answer.
+If the answer is infinity give -1
+You have 5 second for each of the 20 tests.
+
+Press any key to begin!
+"""
+
+def enc(p):
+    return (int(p[0]) + INF) * (2 * INF) + (int(p[1]) + INF)
+def dec(p):
+    res = [0, 0]
+    res[1] = p % (2 * INF) - INF
+    res[0] = (p // (2 * INF)) - INF
+    return res
+
+
+def reflect(point, slope):
+    dx = 2 * ( (point[1] * slope + point[0]) / (slope + (1.0 / slope) ) - point[0])
+    return [point[0] + dx, point[1] - (1.0 / slope) * dx]
+def solve_pow(poww, s):
+    current = 1
+    while True:
+        if hashlib.sha256(str(current).encode()).hexdigest().endswith(poww):
+            break
+        current += 1
+    print("[?] Pow Challenge Solution: ", current)
+    print("[?] Hash: ", hashlib.sha256(str(current).encode()).hexdigest())
+    s.send((str(current) + "\n").encode())
+
+def apply_point(point, found, point_set, points):
+    valid = True
+    if point[0] == 0 and INF not in found:
+        for can in points:
+            if (can[0] != 0):
+                if enc([-1 * can[0], can[1]]) not in point_set:
+                    valid = False
+                    break
+            else:
+                # ask authors
+                pass
+        if(valid):
+            found.add(INF)
+    elif point[0] != 0:
+        slope = point[1] / point[0]
+        if (slope != 0):
+            if slope not in found:
+                for can in points:
+                    if slope * can[0] != can[1]:
+                        # print(can[0], can[1], slope, reflect(can, slope))
+                        if enc(reflect(can, slope)) not in point_set:
+                            valid = False
+                            break
+                    else:
+                        # ask authors
+                        pass
+        else:
+            if slope not in found:
+                for can in points:
+                    if enc([can[0], -1 * can[1]]) not in point_set:
+                        valid = False
+                        break
+        if valid:
+            found.add(slope)
+
+            
+
+def solve(convex_hull, points):
+    found = set()
+    point_set = set()
+    for point in points:
+        point_set.add(enc(point))
+    
+    for point in convex_hull:
+        apply_point(point, found, point_set, points)
+    csize = len(convex_hull)
+
+
+    for i in range(csize - 1):
+        apply_point([(convex_hull[i][0] + convex_hull[i+1][0]) / 2.0, (convex_hull[i][1] + convex_hull[i+1][1]) / 2.0], found, point_set, points)
+    apply_point([(convex_hull[csize-1][0] + convex_hull[0][0]) / 2.0, (convex_hull[csize-1][1] + convex_hull[0][1]) / 2.0], found, point_set, points)
+    return len(found)
+
+def main():
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+        s.connect(("challs.m0lecon.it", 10001))
+        powchal = s.recv(1024).decode()[49:-2]
+        print("[?] Challenge:", powchal)
+        solve_pow(powchal, s)
+        print(s.recv(4096).decode())
+        s.send("\n".encode())
+        cin = s.recv(262144).decode()
+        while("Your answer:" not in cin):
+            curr = s.recv(262144).decode()
+            cin += curr
+        cin = cin.split("\n")
+        N = int(cin[0])
+        points = np.zeros((N, 2), dtype=np.int32)
+        print(N, len(cin))
+        i = 0
+        for line in cin[1:-1]:
+            point = [int(c) for c in line.split(" ")]
+            points[i][0] = point[0]
+            points[i][1] = point[1]
+            i += 1
+        print(points, len(points))
+        hull = ConvexHull(points)
+        print(hull.vertices)
+        for idx in hull.vertices:
+            print(points[idx])
+        idxs = hull.vertices  # convex hull member indexes
+        convex_hull = []
+        hsize = len(idxs)
+        for i in range(hsize):
+            convex_hull.append(points[idxs[i]])
+        result = solve(convex_hull, points)
+        print(result)
+        s.send((str(result) + "\n").encode())
+        print(s.recv(4096).decode())
+    
+    """points = np.zeros((5, 2), dtype=np.int32)
+    points[0][0] = 1
+    points[0][1] = 1
+    points[1][0] = 1
+    points[1][1] = -1
+    points[2][0] = -1
+    points[2][1] = 1
+    points[3][0] = -1
+    points[3][1] = -1
+    points[4][0] = 0
+    points[4][0] = 0
+    hull = ConvexHull(points)
+    idxs = hull.vertices  # convex hull member indexes
+    convex_hull = []
+    hsize = len(idxs)
+    for i in range(hsize):
+        convex_hull.append(points[idxs[i]])
+    print(convex_hull)
+    result = solve(convex_hull, points)
+    print(result)"""
+
+if __name__ == "__main__":
+    main()

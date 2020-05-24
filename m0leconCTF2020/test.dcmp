@@ -1,0 +1,57 @@
+export memory memory(initial: 256, max: 256);
+
+global g_a:int = 5244176;
+
+data d_9gqrCARBwQB6gfK8Grnu2SGZptmw(offset: 1024) = 
+  "*9g~q-!!rCA:\09\0c\04\05RB@\19\0awQB\05#6[\0cgf"\00K'8Grn[u+,2^SGZ"ptm"
+  "{\00what's this?\00zzz...\00\00\00\00\00\00\00thx ...zzzzzz...\00*";
+data d_b(offset: 1136) = "\10\05P";
+
+function func1(a:int) {
+  var var0:int;
+  g_a = var0;
+}
+
+function func2(a:int):int {
+  var var0:int;
+  var0 = g_a - var0 & -16;
+  g_a = var0;
+  return var0;
+}
+
+function func3():int {
+  return g_a
+}
+
+function func4(a:int):int {
+  var var0:byte_ptr;
+  var var1:int = 1124[0]:int;
+  var0 = func5(var0[0]);
+  return {
+           if (var1 <= 3) {
+             1091;
+             if ((var1 + 1073)[0]:ubyte == (var0 & 255)) goto B_b;
+             goto B_a;
+           }
+           if ((var0 + -32 & 255) > 94) goto B_a;
+           1091;
+           if (var1 != 47) goto B_b;
+           select_if(1104, 1078, var0 == 125);
+           label B_b:
+         }
+  label B_a:
+  d_9gqrCARBwQB6gfK8Grnu2SGZptmw[97]:byte = 42;
+  1124[0]:int = 0;
+  return 1078;
+}
+
+function func5(a:int):int {
+  var var1:int;
+  var var0:int;
+  1124[0]:int = (var1 = (1124[0]:int + 1) % 49);
+  d_9gqrCARBwQB6gfK8Grnu2SGZptmw[97]:byte = 
+    (var0 = d_9gqrCARBwQB6gfK8Grnu2SGZptmw[97]:ubyte ^ 
+            ((var1 + 1024)[0]:ubyte ^ var0));
+  return (var0 << 24) >> 24;
+}
+
