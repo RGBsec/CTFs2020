@@ -27,7 +27,7 @@ class RandomReverse {
 //        } else {
 //            System.out.println("Seed not found");
 //        }
-        int[] arr = {-583975528, 1737279113};
+        int[] arr = {725007117, 1213682324};
         System.out.println(Arrays.toString(genNum(reverse(arr))));
     }
 

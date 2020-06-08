@@ -1,0 +1,109 @@
+import java.io.IOException;
+import java.io.OutputStreamWriter;
+import java.io.PrintWriter;
+import java.net.Socket;
+import java.util.Arrays;
+import java.util.Scanner;
+
+public class Main
+{
+    public static void main(String[] args) throws IOException
+    {
+        Socket socket = new Socket("algo.hsctf.com", 4002);
+        Scanner file = new Scanner(socket.getInputStream());
+        PrintWriter printWriter = new PrintWriter(new OutputStreamWriter(socket.getOutputStream()));
+        for (int testCase = 0; testCase < 15; testCase++)
+        {
+            System.out.println(testCase);
+            if (testCase != 0)
+            {
+                file.nextLine();
+            }
+            file.nextLine();
+            int n = file.nextInt();
+            System.out.println(n);
+            int college = file.nextInt();
+            int[][] men = new int[n][n];
+            int[][] women = new int[n][n];
+            String[] names = new String[n];
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    women[i][j] = file.nextInt();
+                }
+            }
+            for (int i = 0; i < n; i++)
+            {
+                for (int j = 0; j < n; j++)
+                {
+                    men[i][j] = file.nextInt();
+                }
+            }
+            file.nextLine();
+            for (int i = 0; i < n; i++)
+            {
+                names[i] = file.nextLine();
+            }
+
+            int[] husbands = new int[n];
+            int[] indices = new int[n];
+            Arrays.fill(husbands, -1);
+            while (!done(husbands))
+            {
+                for (int i = 0; i < n; i++)
+                {
+                    int proposal = men[i][indices[i]];
+                    if (husbands[proposal] == -1)
+                    {
+                        husbands[proposal] = i;
+                    }
+                    else if (husbands[proposal] != i)
+                    {
+                        int former = indexOf(women[proposal], husbands[proposal]);
+                        int current = indexOf(women[proposal], i);
+                        if (former < current)
+                        {
+                            indices[i]++;
+                        }
+                        else
+                        {
+                            indices[husbands[proposal]]++;
+                            husbands[proposal] = i;
+                        }
+                    }
+                }
+            }
+            printWriter.println(names[husbands[college]]);
+            printWriter.flush();
+        }
+        System.out.println(file.nextLine());
+        System.out.println(file.nextLine());
+        System.out.println(file.nextLine());
+        System.out.println(file.nextLine());
+    }
+
+    public static boolean done(int[] husbands)
+    {
+        for (int husband : husbands)
+        {
+            if (husband == -1)
+            {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public static int indexOf(int[] array, int value)
+    {
+        for (int i = 0; i < array.length; i++)
+        {
+            if (array[i] == value)
+            {
+                return i;
+            }
+        }
+        throw new Error("THIS SHOULD NOT HAPPEN");
+    }
+}

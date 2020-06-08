@@ -1,0 +1,288 @@
+======================
+ExifTool Version Number         : 11.93
+File Name                       : puppy01.jpeg
+Directory                       : .
+File Size                       : 5.9 kB
+File Modification Date/Time     : 2020:06:04 13:35:06-04:00
+File Access Date/Time           : 2020:06:04 13:39:56-04:00
+File Inode Change Date/Time     : 2020:06:04 13:35:06-04:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 305
+Image Height                    : 165
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 305x165
+Megapixels                      : 0.050
+======================
+ExifTool Version Number         : 11.93
+File Name                       : puppy02.jpeg
+Directory                       : .
+File Size                       : 3.7 kB
+File Modification Date/Time     : 2020:06:04 13:35:06-04:00
+File Access Date/Time           : 2020:06:04 13:39:56-04:00
+File Inode Change Date/Time     : 2020:06:04 13:35:06-04:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 205
+Image Height                    : 245
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 205x245
+Megapixels                      : 0.050
+======================
+ExifTool Version Number         : 11.93
+File Name                       : puppy03.jpeg
+Directory                       : .
+File Size                       : 8.8 kB
+File Modification Date/Time     : 2020:06:04 13:35:06-04:00
+File Access Date/Time           : 2020:06:04 13:39:56-04:00
+File Inode Change Date/Time     : 2020:06:04 13:35:06-04:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 230
+Image Height                    : 219
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 230x219
+Megapixels                      : 0.050
+======================
+ExifTool Version Number         : 11.93
+File Name                       : puppy04.jpeg
+Directory                       : .
+File Size                       : 2.8 kB
+File Modification Date/Time     : 2020:06:04 13:35:06-04:00
+File Access Date/Time           : 2020:06:04 13:39:57-04:00
+File Inode Change Date/Time     : 2020:06:04 13:35:06-04:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 248
+Image Height                    : 203
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 248x203
+Megapixels                      : 0.050
+======================
+ExifTool Version Number         : 11.93
+File Name                       : puppy05.jpeg
+Directory                       : .
+File Size                       : 4.4 kB
+File Modification Date/Time     : 2020:06:04 13:35:06-04:00
+File Access Date/Time           : 2020:06:04 13:39:57-04:00
+File Inode Change Date/Time     : 2020:06:04 13:35:06-04:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 223
+Image Height                    : 226
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 223x226
+Megapixels                      : 0.050
+======================
+ExifTool Version Number         : 11.93
+File Name                       : puppy06.jpeg
+Directory                       : .
+File Size                       : 5.4 kB
+File Modification Date/Time     : 2020:06:04 13:35:06-04:00
+File Access Date/Time           : 2020:06:04 13:39:57-04:00
+File Inode Change Date/Time     : 2020:06:04 13:35:06-04:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 259
+Image Height                    : 194
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 259x194
+Megapixels                      : 0.050
+======================
+ExifTool Version Number         : 11.93
+File Name                       : puppy07.jpeg
+Directory                       : .
+File Size                       : 5.0 kB
+File Modification Date/Time     : 2020:06:04 13:35:06-04:00
+File Access Date/Time           : 2020:06:04 13:39:57-04:00
+File Inode Change Date/Time     : 2020:06:04 13:35:06-04:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 225
+Image Height                    : 224
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 225x224
+Megapixels                      : 0.050
+======================
+ExifTool Version Number         : 11.93
+File Name                       : puppy08.jpeg
+Directory                       : .
+File Size                       : 5.9 kB
+File Modification Date/Time     : 2020:06:04 13:35:06-04:00
+File Access Date/Time           : 2020:06:04 13:39:57-04:00
+File Inode Change Date/Time     : 2020:06:04 13:35:06-04:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 184
+Image Height                    : 274
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 184x274
+Megapixels                      : 0.050
+======================
+ExifTool Version Number         : 11.93
+File Name                       : puppy09.jpeg
+Directory                       : .
+File Size                       : 5.9 kB
+File Modification Date/Time     : 2020:06:04 13:35:06-04:00
+File Access Date/Time           : 2020:06:04 13:39:57-04:00
+File Inode Change Date/Time     : 2020:06:04 13:35:06-04:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 183
+Image Height                    : 275
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 183x275
+Megapixels                      : 0.050
+======================
+ExifTool Version Number         : 11.93
+File Name                       : puppy10.jpeg
+Directory                       : .
+File Size                       : 6.8 kB
+File Modification Date/Time     : 2020:06:04 13:35:06-04:00
+File Access Date/Time           : 2020:06:04 13:39:57-04:00
+File Inode Change Date/Time     : 2020:06:04 13:35:06-04:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 225
+Image Height                    : 225
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 225x225
+Megapixels                      : 0.051
+======================
+ExifTool Version Number         : 11.93
+File Name                       : puppy11.jpeg
+Directory                       : .
+File Size                       : 5.5 kB
+File Modification Date/Time     : 2020:06:04 13:35:06-04:00
+File Access Date/Time           : 2020:06:04 13:39:57-04:00
+File Inode Change Date/Time     : 2020:06:04 13:35:06-04:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 259
+Image Height                    : 194
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 259x194
+Megapixels                      : 0.050
+======================
+ExifTool Version Number         : 11.93
+File Name                       : puppy12.jpeg
+Directory                       : .
+File Size                       : 4.8 kB
+File Modification Date/Time     : 2020:06:04 13:35:06-04:00
+File Access Date/Time           : 2020:06:04 13:39:58-04:00
+File Inode Change Date/Time     : 2020:06:04 13:35:06-04:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 225
+Image Height                    : 225
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 225x225
+Megapixels                      : 0.051
