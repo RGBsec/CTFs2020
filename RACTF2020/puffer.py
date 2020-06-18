@@ -46,6 +46,8 @@ def execute_bytecode(code):
         0, 0, 0, stacksize, 2, code, consts,
         names, (), "", "", 0, b"", (), ()
     )
+    print(inject.co_names)
+    print(inject.co_code)
 
     # Create a copy of globals() and load in builtins. builtins aren"t
     # normally included in global scope.
@@ -70,7 +72,8 @@ def smart_input():
 
 print("Hello!")
 print("What's your name?")
-name = smart_input()
+# name = b"12345678901234567890123456789012" + smart_input()
+name = b"12345678901234567890123456789012" + b"\x00\x00"
 name = put_on_stack(name[:32].decode()) + name[32:]
 print(f"Hello {execute_bytecode(name)}!")
 print("It's nice to meet you!")
