@@ -1,0 +1,128 @@
+[
+  {
+    "flag": "flag{w0W!_tH3_v1p3R_hUrTs1!11!}",
+    "chall": "viper",
+    "user": "29748dbb-60d9-4026-877a-16ad004e2ca5",
+    "timestamp": "2020-06-25T05:45:52.831426156Z"
+  },
+  {
+    "flag": "flag{H4cK_w4f_p4s5_iT_0N_d0_Y0u_H4ve_St4cks}",
+    "chall": "got-stacks",
+    "user": "29748dbb-60d9-4026-877a-16ad004e2ca5",
+    "timestamp": "2020-06-23T08:55:31.431844589Z"
+  },
+  {
+    "flag": "flag{H4cK_w4f_p4s5_iT_0N_d0_Y0u_H4ve_St4cks}",
+    "chall": "got-stacks",
+    "user": "8d2db932-69a2-4ae6-8437-dc1933845cc4",
+    "timestamp": "2020-06-23T08:32:13.880338651Z"
+  },
+  {
+    "flag": "flag{H4cK_w4f_p4s5_iT_0N_d0_Y0u_H4ve_St4ck}",
+    "chall": "got-stacks",
+    "user": "8d2db932-69a2-4ae6-8437-dc1933845cc4",
+    "timestamp": "2020-06-23T08:31:46.573692306Z"
+  },
+  {
+    "flag": "flag{H4cK_w4f_p4s5_iT_0N}",
+    "chall": "got-stacks",
+    "user": "8d2db932-69a2-4ae6-8437-dc1933845cc4",
+    "timestamp": "2020-06-23T08:19:45.352945419Z"
+  },
+  {
+    "flag": "flag{H4cK_w4f_p4s}",
+    "chall": "got-stacks",
+    "user": "8d2db932-69a2-4ae6-8437-dc1933845cc4",
+    "timestamp": "2020-06-23T08:10:41.922538778Z"
+  },
+  {
+    "flag": "flag{54v3_th3_b335_1n5t34d}",
+    "chall": "panda-facts-v2",
+    "user": "29748dbb-60d9-4026-877a-16ad004e2ca5",
+    "timestamp": "2020-06-23T05:05:47.340515737Z"
+  },
+  {
+    "flag": "flag{c3rTific4t3_7r4n5pArAncY_fTw}",
+    "chall": "anti-textbook",
+    "user": "29748dbb-60d9-4026-877a-16ad004e2ca5",
+    "timestamp": "2020-06-22T09:46:53.511276651Z"
+  },
+  {
+    "flag": "flag{y0u_b3tt3r_n0t_m@k3_m3_l0s3_my_pyth0n_d3v_j0b}",
+    "chall": "post-it-notes",
+    "user": "29748dbb-60d9-4026-877a-16ad004e2ca5",
+    "timestamp": "2020-06-22T09:10:11.405610949Z"
+  },
+  {
+    "flag": "flag{tr4v3rsal_Tim3}",
+    "chall": "tux-fanpage",
+    "user": "29748dbb-60d9-4026-877a-16ad004e2ca5",
+    "timestamp": "2020-06-22T08:35:36.271007873Z"
+  },
+  {
+    "flag": "flag{tr4v3rsal_Tim3}",
+    "chall": "tux-fanpage",
+    "user": "8d2db932-69a2-4ae6-8437-dc1933845cc4",
+    "timestamp": "2020-06-22T08:25:40.096868233Z"
+  },
+  {
+    "flag": "flag{wh0_n33d5_d0mpur1fy}",
+    "chall": "static-static-hosting",
+    "user": "8d2db932-69a2-4ae6-8437-dc1933845cc4",
+    "timestamp": "2020-06-21T21:54:03.801831570Z"
+  },
+  {
+    "flag": "flag{wh0_n33d5_d0mpur1fy}",
+    "chall": "static-static-hosting",
+    "user": "29748dbb-60d9-4026-877a-16ad004e2ca5",
+    "timestamp": "2020-06-21T21:47:13.224629683Z"
+  },
+  {
+    "flag": "flag{54n1t1z4t10n_k1nd4_h4rd}",
+    "chall": "static-pastebin",
+    "user": "8d2db932-69a2-4ae6-8437-dc1933845cc4",
+    "timestamp": "2020-06-21T21:10:53.759805357Z"
+  },
+  {
+    "flag": "flag{1_c4nt_f1nd_4_g00d_p4nd4_pun}",
+    "chall": "panda-facts",
+    "user": "8d2db932-69a2-4ae6-8437-dc1933845cc4",
+    "timestamp": "2020-06-21T20:43:32.388161300Z"
+  },
+  {
+    "flag": "flag{1nspector_g3n3ral_at_w0rk}",
+    "chall": "inspector-general",
+    "user": "8d2db932-69a2-4ae6-8437-dc1933845cc4",
+    "timestamp": "2020-06-21T20:04:24.711313016Z"
+  },
+  {
+    "flag": "a",
+    "chall": "anti-textbook",
+    "user": "29748dbb-60d9-4026-877a-16ad004e2ca5",
+    "timestamp": "2020-06-21T20:02:43.700926373Z"
+  },
+  {
+    "flag": "a",
+    "chall": "anti-textbook",
+    "user": "29748dbb-60d9-4026-877a-16ad004e2ca5",
+    "timestamp": "2020-06-21T20:02:42.893352980Z"
+  },
+  {
+    "flag": "flag{1nspector_g3n3ral_at_w0rk}",
+    "chall": "inspector-general",
+    "user": "29748dbb-60d9-4026-877a-16ad004e2ca5",
+    "timestamp": "2020-06-21T20:02:33.380184077Z"
+  },
+  {
+    "flag": "flag{w3lc0me_t0_r3dpwnctf_d1sc0rd}",
+    "chall": "discord",
+    "user": "29748dbb-60d9-4026-877a-16ad004e2ca5",
+    "timestamp": "2020-06-21T20:00:15.064528689Z"
+  },
+  {
+    "flag": "flag{w3lc0me_t0_r3dpwnctf_d1sc0rd}",
+    "chall": "sanity-check",
+    "user": "29748dbb-60d9-4026-877a-16ad004e2ca5",
+    "timestamp": "2020-06-21T20:00:05.563271511Z"
+  }
+]
