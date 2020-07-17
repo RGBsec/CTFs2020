@@ -1,19 +1,3 @@
-"""
-redpwnCTF 2020 Writeups
-Challenge: Pseudo-key
-Category: Crypto
-Points: 341
-
-We're given a pseudo-key.py and its output.
-It looks like the encryption just rotates the plaintext by the key.
-We are given the encrypted flag, and the encrypted key.
-We can attack the key first, since it's each char times 2 mod 26.
-So to reverse it, each character is either itself divided by 2, or itself divided by 2 plus 13 because of the mod.
-If we do this, and print out both options, we see that there's a somewhat understandable key: redpwwwnpts
-Then we can reverse the encryption by subtracting the key from the ciphertext.
-Our key doesn't actually get the correct flag, but it's close enough that we can correct the mistakes
-"""
-
 from string import ascii_lowercase
 
 chr_to_num = {c: i for i, c in enumerate(ascii_lowercase)}  # a mapping of a->0, b->1, c->2, etc.

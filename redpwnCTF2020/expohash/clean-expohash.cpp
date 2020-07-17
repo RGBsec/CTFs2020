@@ -1,44 +1,3 @@
-/*
-redpwnCTF 2020 Writeup
-Challenge: expohash
-Category: Misc
-Points: 491
-
-This was the only algo problem of the CTF.
-There's an array A with 10^5 numbers, and we are given xor sums of 10^5 intervals in A.
-We need to find any values of A that work for the list of intervals.
-
-(Solution is next paragraph)
-I solved this with a few hours left in the CTF.
-I tried a few approaches, including sorting by interval size and then trying to backtrack once I had multiple options.
-That took a ridiculously long time, and didn't work.
-I also tried searching for the solution online.
-This problem seems standard enough that someone must have solved it.
-But I couldn't find anything, although that might just be my bad searching skills.
-I finally thought of the solution after contemplating the problem for a few days (and trying to implement some rather hopeless ideas).
-Now to the solution...
-
-We can simplify each interval so that no two intervals end in the same spot.
-If any two intervals do end in the same spot, we can change the larger one to end right before the smaller one.
-Formally, if we have L1 < L2 and R1 = R2, then we can change R1 = L2 - 1 and V1 to V1 xor V2.
-In this way, we can ensure every interval has a unique endpoint.
-
-Then, we can go from left to right and fill in the values of the password.
-Since at most one interval ends at any spot, we can use that spot to make sure the interval has the correct value.
-The code to do so is below. It implements a segment tree (which is really overkill), but prefix sums should work fine too.
-The segment tree is left over from a different failed approach from earlier.
-
-To solve the challenge from the nc server, I plugged in this code to a netcat wrapper I wrote in python.
- */
-
-
-/*
- * expohash.cpp
- *
- *  Created on: Jun 22, 2020
- *      Author: Stanley
- */
-
 #include <fstream> // use files for debugging since it takes a long time to interact with server
 #include <iostream>
 #include <algorithm>
@@ -114,8 +73,8 @@ int main() {
 		cin >> vals[i].left >> vals[i].right >> vals[i].val;
 		vals[i].left--;
 		vals[i].right--;
-		assert(vals[i].val <= (1LL << 31));
-		// make sure value is less than 2^31, fortunately it never is
+		assert(vals[i].val < (1LL << 31));
+		// make sure value is less than 2^31, fortunately it always is
 		// that would be annoying since the values of the password must be <= 2^31
 	}
 

@@ -24,13 +24,13 @@ def read_file(filename: str) -> bytes:
 
 chdir("passwords")
 files = sorted(listdir("."), key=lambda s: int(s.split('_')[0]))
-print(files)
+# print(files)
 
 passes = [recover_pass(file) for file in files]
-print(passes)
+# print(passes)
 
 encrypted = [read_file(file) for file in files]
-print(encrypted)
+# print(encrypted)
 
 
 def rc4(text, key):  # from source file
@@ -60,7 +60,7 @@ for i in range(len(encrypted)):
         if rc4(passes[i], bytearray([byte] * 8)) == encrypted[i]:
             key[7 + i*8] = byte
 
-print(key)
+# print(key)
 
 for L in range(5, 50):
     if L % 8 == 0:

@@ -1,19 +1,3 @@
-"""
-redpwnCTF 2020 Writeups
-Challenge: 12 Shades of Redpwn
-Category: Crypto
-Points: 429
-
-I think this was the worst crypto challenge of redpwnCTF.
-We get 2 images of colors. One is a color wheel and the other is the ciphertext.
-I didn't want to transcribe the images by hand, so I wrote a PIL script to go through the ciphertext image and get each color.
-Then I started guessing different encryptions.
-Every two colors were paired in the ciphertext, and the first color was usually in the same general area of the color wheel.
-I originally multiplied the first color by 10, and spent a long time rotating and offsetting the color wheel positions.
-In the end, the cipher is just the location of the first color, times 12, plus the location of the second color.
-Locations start at 0, at the top of the circle.
-"""
-
 from PIL import Image
 import numpy as np
 

@@ -1,13 +1,3 @@
-"""
-redpwnCTF 2020 Writeups
-Challenge: Alien Transmissions v2
-Category: Crypto
-Points: 481
-
-
-"""
-
-
 from collections import Counter
 from utils.basics import ords_to_ascii
 
