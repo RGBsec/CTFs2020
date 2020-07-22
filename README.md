@@ -6,6 +6,7 @@ The only ones that are organized and have writeups are:
 * redpwnCTF
 * Chujowy CTF
 * UIUCTF
+* CSICTF
 
 For organized directories, all challenges should be in their own folders.
 If a challenge is not in `unsolved` or `solved_by_teammates` then it should have a writeup in the README.
