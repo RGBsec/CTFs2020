@@ -1,6 +1,14 @@
 # CSICTF 2020 Friends Writeup
 by qpwoeirut
 
+Category: Misc<br>
+Points: 480
+> I made a really complicated math function. Check it out.
+> `nc chall.csivit.com 30425`
+
+Files: namo.py
+
+## Explanation
 We're provided a script which does some fancy math stuff and then checks for equality with our input.
 I have no idea what the math actually is doing, but I decided on a whim to try sending NaN, and it worked.
 
@@ -14,3 +22,5 @@ It's very easy to figure out (probably even easier if you speak Hindi), and some
 I ended up spending around 5 times longer parsing the output than I did solving the actual challenge.
 
 Implementation of server interaction and parsing at `solve_namo.py`.
+
+`csictf{my_n4n_15_4_gr34t_c00k}`

@@ -1,6 +1,14 @@
 # CSICTF 2020 Scrambled Eggs Writeup
 by qpwoeirut
 
+Category: Reversing<br>
+Points: 499
+
+> I like my eggs sunny side up, but I ended up scrambling them.
+
+Files: scrambledeggs.py, scrambledeggs.txt
+
+## Explanation
 Just like in Esrever, `enc2` is very easy to reverse and `enc1` is a little harder.
 In this challenge, all `enc1` does is rotate the input it's given.
 So no matter how many times it's run we can easily get all of the possible inputs (just like in Esrever!).
@@ -14,4 +22,5 @@ Implementation at `solve_scrambled_eggs.py`.
 
 Note: When trying to write the inverse of a function, remember to reverse `range` too!
 
+`csictfaallbthebkingsbhorsesa`
 `csictf{all_the_kings_horses}`

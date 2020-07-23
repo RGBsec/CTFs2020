@@ -1,10 +1,14 @@
 # CSICTF 2020 Escape Plan Writeup
 by qpwoeirut
 
+Category: Misc<br>
+Points: 469
+
 > I found a script that solves ciphers, they say it's pretty secure!
 >
 > `nc chall.csivit.com 30419`
 
+## Explanation
 Escaping the pyjail is pretty easy, since imports aren't disabled.
 Something like `__builtins__.__import__("os").system()` would work.
 But we don't actually need to get an RCE.
