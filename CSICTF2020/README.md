@@ -1,7 +1,5 @@
 # CSICTF 2020
 
-Since I can't access the challenge descriptions right now, only the solutions will be explained.
-
 There are writeups for:
 * AKA
 * Cascade
