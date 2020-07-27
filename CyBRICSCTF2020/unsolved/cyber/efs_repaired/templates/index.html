@@ -1,0 +1,50 @@
+{% extends "bootstrap/base.html" %}
+{% block title %}This is an example page{% endblock %}
+
+{% block navbar %}
+{% endblock %}
+
+{% block content %}
+
+<link rel="stylesheet" href="/static/styles.css">
+
+<div class="container">
+    <div class="jumbotron">
+        <h1>CyBRICS Gist</h1>
+        <p>Keep your data private</p>
+    </div>
+    <div class="col-md-10 col-md-offset-1">
+        <h3>Write new secret message</h3>
+        <form method="POST" enctype="multipart/form-data" action="/" width="100%">
+            <textarea name="message" cols="50"></textarea>
+            <input type=submit value=Save class="form-control btn btn-primary">
+        </form>
+    </div>
+    <div class="col-md-10 col-md-offset-1">
+        <h3>Get existing message</h3>
+        <form method="POST" enctype="multipart/form-data" action="/get" width="100%">
+            <input type="text" name="fileid">
+            <input type=submit value=Get class="form-control btn btn-primary">
+        </form>
+    </div>
+    <div class="col-md-12">
+{% with messages = get_flashed_messages(with_categories=true) %}
+  {% if messages %}
+    {% for category, message in messages %}
+<!--      <div class="alert alert-{{ category }}" role="alert">-->
+          <script>
+              window.addEventListener('load', (event) => {
+                  $("input[type=text]").val("{{ message }}");
+                });
+          </script>
+<!--      </div>-->
+    {% endfor %}
+  {% endif %}
+{% endwith %}
+    </div>
+</div>
+
+
+
+
+{% endblock %}

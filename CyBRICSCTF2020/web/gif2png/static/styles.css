@@ -1,0 +1,26 @@
+body {
+    background: url("/static/logo.gif") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron {
+    background-color: rgba(0, 0, 0, 0.3)!important;
+    color: #348f9e;
+    font-weight: bolder;
+}
+
+#upload-form {
+    width:600px;
+    -webkit-transform: rotate(8deg);
+    -moz-transform: rotate(8deg);
+    border:0 none;
+    background:none;
+}
+
+#result-form {
+    -webkit-transform: rotate(-1deg);
+    -moz-transform: rotate(-1deg);
+}

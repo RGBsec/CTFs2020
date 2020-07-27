@@ -1,0 +1,31 @@
+body {
+    background: url("/static/bg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.jumbotron {
+    background-color: rgba(0,0,0,0);
+}
+
+textarea {
+    background-color: rgba(0,0,0,0);
+    color: black;
+    font-size: 24px;
+    font-family: fantasy;
+    width: 100%;
+}
+
+input {
+    background-color: rgba(0,0,0,0);
+    color: black;
+    font-size: 24px;
+    font-family: fantasy;
+    width: 100%;
+}
+
+h3 {
+    background-color: aliceblue;
+}
