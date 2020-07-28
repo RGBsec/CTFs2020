@@ -1,5 +1,5 @@
 # CyBRICS 2020 Lite Hunt Writeup
-by in
+by iqno
 
 Category: Web<br>
 Difficulty: Baby<br>
