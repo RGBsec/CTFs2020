@@ -14,4 +14,4 @@ We solved:
 * Hunt
 * Gif2png
 
-Right now Keyshooter, Baby Rev, and Polyglot have writeups. More will come later.
+Right now Keyshooter, Baby Rev, Krevedka and Polyglot have writeups. More will come later.
