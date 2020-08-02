@@ -8,4 +8,4 @@ We solved:
 * Coins
 * Lookout Foxy
 
-See this direcotry for completed writeups
+See this directory for completed writeups
