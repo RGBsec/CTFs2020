@@ -24,7 +24,7 @@ And just leave it running in another terminal. As you can see, it has mounted th
 
 ### **Flag Part 1**
 
-Once we I had the drive mounted, I spent a while analyzing the directory structure to understand:
+Once I had the drive mounted, I spent a while analyzing the directory structure to understand:
 
 - what programs are installed
 - what users there are
