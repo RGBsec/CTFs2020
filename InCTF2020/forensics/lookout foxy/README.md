@@ -1,11 +1,4 @@
----
-layout: default
-title:  "InCTF 2020 - Lookout Foxy"
-date:   2020-08-02 10:00:00 +0100
-categories: inctf
----
-
-## **InCTF 2020: Lookout Foxy**
+# **InCTF 2020: Lookout Foxy**
 Challenge Author: *g4rud4*<br>
 Category: _Forensics_
 
@@ -216,6 +209,7 @@ Connect parts 1 and 2 and we have the flag:
 
 Hats off to g4rud4 for writing such an interesting challenge.
 
+Read more writeups by me here: https://klanec.github.io/
 
 [imgmounter]: https://github.com/ralphje/imagemounter
 [firefed]: https://github.com/numirias/firefed
