@@ -8,6 +8,7 @@ The only ones that are organized and have writeups are:
 * UIUCTF
 * CSICTF
 * CyBRICS Lite 2020
+* InCTF 2020
 
 For organized directories, all challenges should be in their own folders.
 If a challenge is not in `unsolved` or `solved_by_teammates` then it should have a writeup in the README.
