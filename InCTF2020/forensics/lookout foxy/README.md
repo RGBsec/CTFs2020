@@ -1,4 +1,6 @@
 # **InCTF 2020: Lookout Foxy**
+by Klanec
+
 Challenge Author: *g4rud4*<br>
 Category: _Forensics_
 
