@@ -1,0 +1,44 @@
+seg000          segment byte public 'CODE' use64
+                assume cs:seg000
+                assume es:nothing, ss:nothing, ds:nothing, fs:nothing, gs:nothing
+                push    rbp
+                mov     rbp, rsp
+                sub     rsp, 18h
+                mov     qword ptr [rbp-8], 4Fh
+                mov     rax, 14BE74F15h
+                mov     [rbp-10h], rax
+                mov     qword ptr [rbp-18h], 4
+                mov     qword ptr [rbp-20h], 3
+                mov     qword ptr [rbp-28h], 13h
+                mov     qword ptr [rbp-30h], 115h
+                mov     rax, 77CF4B645B61h
+                mov     [rbp-38h], rax
+                mov     qword ptr [rbp-40h], 2
+                mov     qword ptr [rbp-48h], 11h
+                mov     qword ptr [rbp-50h], 21C1h
+                mov     qword ptr [rbp-58h], 182265E9h
+                mov     qword ptr [rbp-60h], 833h
+                mov     qword ptr [rbp-68h], 0AABh
+                mov     qword ptr [rbp-70h], 8DAAADh
+                mov     rax, [rbp-8]
+                imul    rax, [rbp-10h]
+                mov     [rbp-78h], rax
+                mov     rax, [rbp-18h]
+                imul    rax, [rbp-20h]
+                imul    rax, [rbp-28h]
+                imul    rax, [rbp-30h]
+                imul    rax, [rbp-38h]
+                mov     [rbp-80h], rax
+                mov     rax, [rbp-40h]
+                imul    rax, [rbp-48h]
+                imul    rax, [rbp-50h]
+                imul    rax, [rbp-58h]
+                mov     [rbp-88h], rax
+                mov     rax, [rbp-60h]
+                imul    rax, [rbp-68h]
+                imul    rax, [rbp-70h]
+                mov     [rbp-90h], rax
+                mov     eax, 0
+                leave
+seg000          ends
+
