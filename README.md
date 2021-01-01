@@ -1,14 +1,16 @@
-# Files from CTFs in 2020
+# Files from CTFs
 by qpwoeirut
 
 Most of these directories are a complete mess of solutions, challenge files, and failed solutions.
 The only ones that are organized and have writeups are:
-* redpwnCTF
-* Chujowy CTF
-* UIUCTF
-* CSICTF
+* redpwnCTF 2020
+* Chujowy CTF 2020
+* UIUCTF 2020
+* CSICTF 2020
 * CyBRICS Lite 2020
 * InCTF 2020
+* NACTF 2020
+* X-Mas CTF 2020
 
 For organized directories, all challenges should be in their own folders.
 If a challenge is not in `unsolved` or `solved_by_teammates` then it should have a writeup in the README.
