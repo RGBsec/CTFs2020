@@ -1,0 +1,17 @@
+b1,r,lsb,xy         .. text: "https://github.com/evil-steganography/evil-stego-1"
+    00000000: 90 bf 68 74 74 70 73 3a  2f 2f 67 69 74 68 75 62  |..https://github|
+    00000010: 2e 63 6f 6d 2f 65 76 69  6c 2d 73 74 65 67 61 6e  |.com/evil-stegan|
+    00000020: 6f 67 72 61 70 68 79 2f  65 76 69 6c 2d 73 74 65  |ography/evil-ste|
+    00000030: 67 6f 2d 31 ed fe cb 10  22 00 00 00 f8 00 07 ff  |go-1....".......|
+    00000040: ff c3 f0 e0 00 00 20 00  00 20 02 00 fc 20 00 00  |...... .. ... ..|
+    00000050: 1f ff 80 3e 00 7f ff c4  fb 90 70 01 34 86 30 00  |...>......p.4.0.|
+    00000060: 00 ec 26 07 ee db 37 f8  3f c0 17 5f 83 e3 cd a7  |..&...7.?.._....|
+    00000070: 49 f8 c7 60 e2 cc 9f ff  ff f0 00 18 07 00 00 00  |I..`............|
+    00000080: 00 0f ff ff ff ff ff ff  ff ff ff ff ff ef ff ff  |................|
+    00000090: f7 ff ff fb ff ff ff ff  fc 00 00 00 ff 80 0f f0  |................|
+    000000a0: ff 00 00 00 00 03 ff ff  3e 3f ff dd ca 9f ff bf  |........>?......|
+    000000b0: ff ff e1 ff ff ff fe 03  d7 ff ff ef 78 fc 3f ff  |............x.?.|
+    000000c0: ff f9 fb f8 00 03 e0 0f  90 ff 43 4f 82 0c b0 c4  |..........CO....|
+    000000d0: f8 0e 52 00 00 1f c9 98  1f 0e 01 33 0a 9f cf 8b  |..R........3....|
+    000000e0: 7c 03 2b 9c a3 40 fe 00  00 00 80 03 df ff ff ff  ||.+..@..........|
+    000000f0: ff ff ff ff ff e2 ff ff  80 1f 41 ff ff ff ff 7f  |..........A.....|

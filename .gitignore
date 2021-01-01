@@ -1,4 +1,4 @@
-# CTFs2020
+# CTFs
 
 .DS_Store
 .idea
@@ -12,22 +12,22 @@
 .vscode
 **/__pycache__/
 
-/HackTM2020/find_my_pass.zip
-/HackTM2020/prison_break/prison_break.txt
-/UTCTF2020/curveball.txt
-/AeroCTF2020/memory.dmp
-/SecurinetsPrequals2020/for1.raw
-/SecurinetsPrequals2020/forensics-time.zip
-/VolgaQuals2020/kiddie.ova
-/TGHACK2020/host.vmem
-/TGHACK2020/host.vmem.7z
-/WPICTF2020/block-gate-flag.mov
-/HouseplantCTF2020/imagery.7z
-/HouseplantCTF2020/imagery.raw
-/SharkyCTF2020/dump.mem
-/m0leconCTF2020/css_ss/
-/HSCTF2020/untitled_audio/
-/NoobCTF2020/memdump
-/NoobCTF2020/memdump.zip
-/InCTF2020/unsolved/crypto/poly_rsa/fx_mod_p.txt
-/UIUCTF2020/unsolved/zip_heck
+/HackTM/find_my_pass.zip
+/HackTM/prison_break/prison_break.txt
+/UTCTF/curveball.txt
+/AeroCTF/memory.dmp
+/SecurinetsPrequals/for1.raw
+/SecurinetsPrequals/forensics-time.zip
+/VolgaQuals/kiddie.ova
+/TGHACK/host.vmem
+/TGHACK/host.vmem.7z
+/WPICTF/block-gate-flag.mov
+/HouseplantCTF/imagery.7z
+/HouseplantCTF/imagery.raw
+/SharkyCTF/dump.mem
+/m0leconCTFTeaser/css_ss/
+/HSCTF/untitled_audio/
+/NoobCTF/memdump
+/NoobCTF/memdump.zip
+/InCTF/unsolved/crypto/poly_rsa/fx_mod_p.txt
+/UIUCTF/unsolved/zip_heck
